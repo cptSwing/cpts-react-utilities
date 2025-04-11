@@ -10,6 +10,7 @@ Once I find the time I'll backfill from older projects, promise.
 - [ ] Add useAddClassListOnMount()
 - [ ] Add useDebugButton()
 - [ ] Add usePrevious(), useCompare()
+- [ ] useCSSCalc() (see https://github.com/shyndman/tosser for inspiration?)
 - [ ] Add useLocalStorage(), <CookieNotice/>
 
 Should I ever be bored:
