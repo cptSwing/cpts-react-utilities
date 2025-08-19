@@ -17,6 +17,42 @@ Should I ever be bored:
 
 - [ ] Set up site to showcase
 
-### TextStroke
+## Components
+
+#### TextStroke
 
 Returns a Span element with stroked text, using `-webkit-text-stroke`. Draws the stroke behind the `<span>`, using a `:before` pseudo-element.
+
+#### FitText
+
+Fits/scales text to any container size (using a SVG node)
+
+#### GetChildSize
+
+## Hooks
+
+#### useForwardedRef
+
+#### useBreakpoint (WIP, how to ingest user's tailwind config?)
+
+#### useReactNodeAsStaticMarkup
+
+#### useWillChange (WIP, is this actually a good idea?)
+
+#### useOutsideClick
+
+Executes a callback once a click outside of this Element is registered
+
+#### useMountTransition
+
+Unmounts a component only once it's transitions have ended
+
+#### useDebugButton
+
+#### useMouseWheelDirection
+
+Gets a mousewheel scroll's direction and distance
+
+#### useThrottle
+
+#### usePrevious (WIP, clean this up and decide on one haha)
