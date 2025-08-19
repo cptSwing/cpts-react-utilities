@@ -8,8 +8,8 @@ Once I find the time I'll backfill from older projects, promise.
 - [ ] Set up .prettierrc
 - [ ] Add useAnimationOnMount()
 - [ ] Add useAddClassListOnMount()
-- [ ] Add useDebugButton()
-- [ ] Add usePrevious(), useCompare()
+- [x] Add useDebugButton()
+- [x] Add usePrevious(), useCompare()
 - [ ] useCSSCalc() (see https://github.com/shyndman/tosser for inspiration?)
 - [ ] Add useLocalStorage(), <CookieNotice/>
 
@@ -56,3 +56,11 @@ Gets a mousewheel scroll's direction and distance
 #### useThrottle
 
 #### usePrevious (WIP, clean this up and decide on one haha)
+
+#### useIsDocumentReady (Fix Types)
+
+#### useCreateRefArray / useArrayRef (WIP, figure out use case and decide on naming)
+
+#### useLocalStorage (WIP clean up)
+
+#### useSearchParamsState (WIP)
